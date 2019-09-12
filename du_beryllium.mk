@@ -29,6 +29,5 @@ BUILD_FINGERPRINT := "google/coral/coral:10/QQ2A.200405.005/6254899:user/release
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="beryllium-user 10 QKQ1.190828.002 V11.0.6.0.QEJMIXM release-keys" \
     PRODUCT_NAME="beryllium" \
-    TARGET_DEVICE="beryllium"
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
