@@ -7,7 +7,7 @@
   },
   {
     "remote": "github",
-    "repository": "PainKiller3/proprietary_vendor_xiaomi_new",
+    "repository": "PainKiller3/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch": "ten"
   },
