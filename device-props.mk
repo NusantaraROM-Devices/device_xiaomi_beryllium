@@ -4,7 +4,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Display density
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.sf.lcd_density=420
+    ro.sf.lcd_density=440
 
 # Display postprocessing
 PRODUCT_PROPERTY_OVERRIDES += \
@@ -15,6 +15,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.hardware.fp.fpc=true \
     ro.hardware.fp.goodix=true
+
+# Radio
+PRODUCT_PROPERTY_OVERRIDES += \
+    persist.sys.fflag.override.settings_network_and_internet_v2=true 
 
 # FM
 PRODUCT_PROPERTY_OVERRIDES += \
