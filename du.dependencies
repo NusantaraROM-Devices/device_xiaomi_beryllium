@@ -1,19 +1,19 @@
 [
   {
     "remote": "github",
-    "repository": "PainKiller3/device_xiaomi_sdm845-common",
+    "repository": "goodmeow/device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common",
-    "branch": "ten"
+    "branch": "ten-corvus"
   },
   {
     "remote": "github",
-    "repository": "PainKiller3/vendor_xiaomi",
+    "repository": "goodmeow/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch": "ten"
+    "branch": "ten-1"
   },
   {
     "remote": "github",
-    "repository": "gzR-Kernels/Optimus_Drunk_Beryllium",
+    "repository": "GZR-Kernels/Optimus_Drunk_Beryllium",
     "target_path": "kernel/xiaomi/sdm845",
     "branch": "10.0"
   }
