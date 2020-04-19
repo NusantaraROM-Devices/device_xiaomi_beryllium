@@ -11,7 +11,7 @@ $(call inherit-product, vendor/xiaomi/firmware/beryllium/firmware.mk)
 $(call inherit-product, vendor/du/config/common_full_phone.mk)
 TARGET_BOOT_ANIMATION_RES := 1440
 TARGET_INCLUDE_WIFI_EXT := true
-DU_BUILD_TYPE := OFFICIAL
+DU_BUILD_TYPE := GaijinShogun
 # CURRENT_BUILD_TYPE :=gapps
 # TARGET_GAPPS_ARCH :=arm64
 #$(call inherit-product-if-exists, vendor/pixelgapps/pixel-gapps.mk)
