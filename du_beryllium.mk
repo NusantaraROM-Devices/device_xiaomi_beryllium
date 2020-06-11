@@ -5,7 +5,6 @@
 #
 
 $(call inherit-product, device/xiaomi/beryllium/device.mk)
-$(call inherit-product, vendor/xiaomi/firmware/beryllium/firmware.mk)
 
 # Inherit some common CORVUS-OS stuff.
 $(call inherit-product, vendor/du/config/common_full_phone.mk)
@@ -18,7 +17,7 @@ DU_BUILD_TYPE := GaijinShogun
 PRODUCT_NAME := du_beryllium
 PRODUCT_DEVICE := beryllium
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := POCO F1
+PRODUCT_MODEL := Pocophone F1
 PRODUCT_MANUFACTURER := Xiaomi
 
 
