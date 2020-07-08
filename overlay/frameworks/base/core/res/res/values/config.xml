@@ -709,7 +709,10 @@
     <dimen name="status_bar_height_portrait">86.0px</dimen>
     <dimen name="status_bar_height_landscape">86.0px</dimen>
     <dimen name="rounded_corner_radius">104px</dimen>
-    
+
+    <!-- Whether to show vendor mismatch message. -->
+    <bool name="config_show_vendor_mismatch_message">false</bool>
+
     <!-- Display mode remapping table.
          If the mode names returned by the backend do not match
          the predefined and translated strings in the Settings
