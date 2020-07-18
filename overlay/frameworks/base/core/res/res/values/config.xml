@@ -715,7 +715,7 @@
     <!-- Height of the status bar -->
     <dimen name="status_bar_height_portrait">86.0px</dimen>
     <dimen name="status_bar_height_landscape">86.0px</dimen>
-    <dimen name="rounded_corner_radius">104px</dimen>
+    <dimen name="rounded_corner_radius">40dp</dimen>
 
     <!-- Display mode remapping table.
          If the mode names returned by the backend do not match
