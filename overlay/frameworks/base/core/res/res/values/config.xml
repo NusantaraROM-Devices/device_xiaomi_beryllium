@@ -319,4 +319,7 @@
     <!-- Whether Multiuser UI should be shown -->
     <bool name="config_enableMultiUserUI">true</bool>
 
+    <!-- Default state for LiveDisplay --> 
+    <bool name="config_liveDisplayAvailable">true</bool>
+
 </resources>
