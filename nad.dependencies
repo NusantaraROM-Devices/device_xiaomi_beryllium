@@ -21,7 +21,6 @@
     "remote": "github",
     "repository": "kdrag0n/proton-clang",
     "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
-    "branch": "master",
-    "revision": "c0229e8320a2bf23b280704033064032b55f9ff8"
+    "branch": "refs/tags/20200719"
   }
 ]
