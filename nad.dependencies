@@ -1,20 +1,27 @@
 [
   {
     "remote": "github",
-    "repository": "goodmeow/device_xiaomi_sdm845-common",
+    "repository": "Nusantara-rom/android_device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common",
-    "branch": "ten-corvus"
+    "branch": "ten-nusantara"
   },
   {
     "remote": "github",
-    "repository": "goodmeow/vendor_xiaomi",
+    "repository": "gmw-project/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch": "ten-1"
+    "branch": "ten-nusantara"
   },
   {
     "remote": "github",
-    "repository": "GZR-Kernels/Optimus_Drunk_Beryllium",
+    "repository": "gmw-project/android_kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
-    "branch": "10.0"
+    "branch": "ten-wip"
+  },
+  {
+    "remote": "github",
+    "repository": "kdrag0n/proton-clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
+    "branch": "master",
+    "revision": "c0229e8320a2bf23b280704033064032b55f9ff8"
   }
 ]
