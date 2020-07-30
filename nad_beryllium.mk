@@ -10,7 +10,7 @@ $(call inherit-product, device/xiaomi/beryllium/device.mk)
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_INCLUDE_WIFI_EXT := true
-NAD_BUILD_TYPE := MahaRaja
+NAD_BUILD_TYPE := OFFICIAL
 
 
 # Device identifier. This must come after all inclusions.
