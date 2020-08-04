@@ -24,7 +24,8 @@ DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay
 
 PRODUCT_PACKAGES += \
-    NoCutoutOverlay
+    NoCutoutOverlay \
+    NusantaraPapers
 
 # Screen density
 PRODUCT_AAPT_CONFIG := normal
