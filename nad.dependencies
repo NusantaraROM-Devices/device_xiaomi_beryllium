@@ -21,6 +21,12 @@
     "remote": "github",
     "repository": "kdrag0n/proton-clang",
     "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
-    "branch": "refs/tags/20200719"
+    "branch": "master"
+  },
+  {
+    "remote": "priv",
+    "repository": "packages_apps_NusantaraParts",
+    "target_path": "packages/apps/NusantaraParts",
+    "branch": "10-4.9"
   }
 ]
