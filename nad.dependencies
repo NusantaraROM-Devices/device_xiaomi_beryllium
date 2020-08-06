@@ -27,7 +27,7 @@
     "remote": "priv",
     "repository": "android_packages_apps_NusantaraParts",
     "target_path": "packages/apps/NusantaraParts",
-    "branch": "10-4.9"
+    "branch": "4.9"
   },
   {
     "remote": "priv",
