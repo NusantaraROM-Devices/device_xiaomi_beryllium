@@ -5,7 +5,7 @@
 #
 
 $(call inherit-product, device/xiaomi/beryllium/device.mk)
-$(call inherit-product, packages/apps/NusantaraParts/nadproject.mk)
+#$(call inherit-product, packages/apps/NusantaraParts/nadproject.mk)
 
 # Inherit some common stuff.
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
