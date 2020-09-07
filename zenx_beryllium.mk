@@ -17,6 +17,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.face.moto_unlock_service=$(TARGET_FACE_UNLOCK_SUPPORTED)
 
+TARGET_INCLUDE_WIFI_EXT :=true
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := zenx_beryllium
 PRODUCT_DEVICE := beryllium
