@@ -1,13 +1,13 @@
 [
   {
-    "remote": "device",
-    "repository": "device_xiaomi_sdm845-common",
+    "remote": "github",
+    "repository": "NusantaraROM-devices/device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common",
     "branch": "11"
   },
   {
     "remote": "github",
-    "repository": "gmw-project/android_device_kernel_sdm845",
+    "repository": "gmw-project/android_kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
     "branch": "ten-wip"
   },
