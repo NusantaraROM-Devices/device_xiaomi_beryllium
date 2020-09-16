@@ -7,7 +7,7 @@
   },
   {
     "remote": "github",
-    "repository": "gmw-project/android_device_kernel_sdm845-common",
+    "repository": "gmw-project/android_device_kernel_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
     "branch": "ten-wip"
   },
