@@ -8,14 +8,13 @@ $(call inherit-product, device/xiaomi/beryllium/device.mk)
 
 # Inherit some common nad stuff.
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
-$(call inherit-product-if-exists, vendor/gapps/common-vendor.mk)
 NAD_BUILD_TYPE := OFFICIAL
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := nad_beryllium
 PRODUCT_DEVICE := beryllium
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := POCO F1
+PRODUCT_MODEL := Pocophone F1
 PRODUCT_MANUFACTURER := Xiaomi
 
 BUILD_FINGERPRINT := "google/coral/coral:11/RPB3.200720.005/6705141:user/release-keys"
