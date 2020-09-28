@@ -28,5 +28,17 @@
     "repository": "android_vendor_qcom_opensource_libfmjni",
     "target_path": "vendor/qcom/opensource/libfmjni",
     "branch": "11"
+  },
+  {
+    "remote": "github",
+    "repository": "kdrag0n/proton-clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
+    "branch": "master"
+  },
+  {
+    "remote": "priv",
+    "repository": "android_packages_apps_NusantaraPapers",
+    "target_path": "packages/apps/NusantaraPapers",
+    "branch": "10"
   }
 ]
