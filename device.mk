@@ -34,6 +34,7 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
 
 # Nusantara
 TARGET_USES_BLUR := true
+USE_PIXEL_CHARGING := true
 
 # Screen density
 PRODUCT_AAPT_CONFIG := normal
