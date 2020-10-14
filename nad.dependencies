@@ -6,10 +6,10 @@
     "branch": "10-power1.3"
   },
   {
-    "remote": "github",
-    "repository": "gmw-project/vendor_xiaomi",
+    "remote": "gitlab",
+    "repository": "goodmeow/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch": "ten-nusantara"
+    "branch": "10"
   },
   {
     "remote": "github",
