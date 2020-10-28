@@ -23,6 +23,18 @@
     "target_path": "vendor/qcom/opensource/libfmjni",
     "branch": "11"
   },
+  { 
+    "remote": "nad",
+    "repository": "vendor_qcom_opensource_display-commonsys-intf",
+    "target_path": "vendor/qcom/opensource/display-commonsys-intf",
+    "branch": "11"
+  },
+  { 
+    "remote": "nad",
+    "repository": "android_hardware_qcom_display",
+    "target_path": "hardware/qcom-caf/sdm845/display",
+    "branch": "11-sdm845"
+  },
   {
     "remote": "priv",
     "repository": "android_packages_apps_NusantaraPapers",
