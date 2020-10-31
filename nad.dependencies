@@ -11,12 +11,6 @@
     "target_path": "kernel/xiaomi/sdm845",
     "branch": "ten-wip"
   },
-  {
-    "remote": "gitlab",
-    "repository": "goodmeow/vendor_xiaomi",
-    "target_path": "vendor/xiaomi",
-    "branch": "11"
-  },
   { 
     "remote": "nad",
     "repository": "android_vendor_qcom_opensource_libfmjni",
