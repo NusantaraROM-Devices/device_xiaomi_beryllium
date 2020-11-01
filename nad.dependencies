@@ -19,8 +19,8 @@
   },
   { 
     "remote": "nad",
-    "repository": "vendor_qcom_opensource_display-commonsys-intf",
-    "target_path": "vendor/qcom/opensource/display-commonsys-intf",
+    "repository": "android_vendor_qcom_opensource_commonsys-intf_display",
+    "target_path": "vendor/qcom/opensource/commonsys-intf/display",
     "branch": "11"
   },
   { 
