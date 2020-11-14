@@ -9,7 +9,7 @@ $(call inherit-product, device/xiaomi/beryllium/device.mk)
 # Inherit some common nad stuff.
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 NAD_BUILD_TYPE := OFFICIAL
-USE_GMS ?= true
+USE_GAPPS ?= true
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := nad_beryllium
