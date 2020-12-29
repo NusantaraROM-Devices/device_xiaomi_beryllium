@@ -305,6 +305,11 @@
     <!-- Whether device has a big physical display cutout -->
     <bool name="config_bigPhysicalDisplayCutout">true</bool>
 
+    <!-- Smart charge sysfs node and value for suspend/resume charging-->
+    <string name="config_SmartChargingSysfsNode" translatable="false">/sys/class/power_supply/battery/input_suspend</string>
+    <string name="config_SmartChargingSupspendValue" translatable="false">1</string>
+    <string name="config_SmartChargingResumeValue" translatable="false">0</string>
+
     <!-- Whether device supports internal audio recording -->
     <bool name="config_hasInternalAudioRecordingSupport">true</bool>
     
@@ -316,4 +321,5 @@
 
     <!-- Default state for LiveDisplay --> 
     <bool name="config_liveDisplayAvailable">true</bool>
+
 </resources>
