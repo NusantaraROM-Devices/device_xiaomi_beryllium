@@ -85,3 +85,6 @@ PRODUCT_COPY_FILES += \
 # PocketMode
 PRODUCT_PACKAGES += \
     XiaomiPocketMode
+
+# Recovery Override
+PRODUCT_PROPERTY_OVERRIDES += persist.vendor.recovery_update=false
