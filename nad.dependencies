@@ -22,11 +22,5 @@
     "repository": "android_packages_apps_NusantaraPapers",
     "target_path": "packages/apps/NusantaraPapers",
     "branch": "10"
-  },
-  { 
-    "remote": "lineage",
-    "repository": "android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings",
-    "branch": "lineage-18.0"
   }
 ]
