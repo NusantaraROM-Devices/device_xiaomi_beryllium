@@ -11,12 +11,6 @@
     "target_path": "kernel/xiaomi/sdm845",
     "branch": "ten-oldtouch"
   },
-  { 
-    "remote": "nad",
-    "repository": "android_hardware_qcom_display",
-    "target_path": "hardware/qcom-caf/sdm845/display",
-    "branch": "11-sdm845"
-  },
   {
     "remote": "priv",
     "repository": "android_packages_apps_NusantaraPapers",
