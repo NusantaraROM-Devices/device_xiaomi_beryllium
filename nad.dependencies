@@ -9,7 +9,7 @@
     "remote": "github",
     "repository": "gmw-project/android_kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
-    "branch": "ten-oldtouch"
+    "branch": "eleven-oldtouch"
   },
   {
     "remote": "priv",
