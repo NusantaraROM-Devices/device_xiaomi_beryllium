@@ -58,6 +58,6 @@ void property_override_triple(char const system_prop[], char const vendor_prop[]
 void vendor_load_properties()
 {
     // fingerprint
-    property_override("ro.build.description", "beryllium-user 9 PKQ1.180729.001 V10.2.3.0.PEJMIXM release-keys");
-    property_override_triple("ro.build.fingerprint", "ro.vendor.build.fingerprint", "ro.bootimage.build.fingerprint", "google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys");
+    property_override("ro.build.description", "redfin-user 11 RQ3A.210605.005 7349499 release-keys");
+    property_override_triple("ro.build.fingerprint", "ro.vendor.build.fingerprint", "ro.bootimage.build.fingerprint", "google/redfin/redfin:11/RQ3A.210605.005/7349499:user/release-keys");
 }
