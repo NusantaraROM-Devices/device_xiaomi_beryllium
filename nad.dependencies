@@ -7,8 +7,14 @@
   },
   {
     "remote": "github",
-    "repository": "gmw-project/android_kernel_xiaomi_sdm845",
+    "repository": "ThunderkeX/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "11.0-beryllium"
+  },
+  {
+    "remote": "github",
+    "repository": "GZR-Kernels/Optimus_Drunk_Beryllium",
     "target_path": "kernel/xiaomi/sdm845",
-    "branch": "eleven-oldtouch"
+    "branch": "11.0"
   }
 ]
