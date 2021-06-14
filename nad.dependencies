@@ -1,7 +1,7 @@
 [
   {
     "remote": "github",
-    "repository": "NusantaraROM-devices/device_xiaomi_sdm845-common",
+    "repository": "ThunderkeX/device_xiaomi_sdm845-common-1",
     "target_path": "device/xiaomi/sdm845-common",
     "branch": "11"
   },
