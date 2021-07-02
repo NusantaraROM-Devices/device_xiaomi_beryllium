@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2018-2019 The revengeosOS Project
+# Copyright (C) 2018-2019 The nadOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/revengeos_beryllium.mk
+    $(LOCAL_DIR)/nad_beryllium.mk
 
 COMMON_LUNCH_CHOICES := \
-    revengeos_beryllium-user \
-    revengeos_beryllium-userdebug \
-    revengeos_beryllium-eng
+    nad_beryllium-user \
+    nad_beryllium-userdebug \
+    nad_beryllium-eng

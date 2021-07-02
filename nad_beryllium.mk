@@ -6,9 +6,10 @@
 
 $(call inherit-product, device/xiaomi/beryllium/device.mk)
 
-# Inherit some common revengeos stuff.
-$(call inherit-product, vendor/revengeos/config/common.mk)
+# Inherit some common nusantara stuff.
+$(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 
+NAD_BUILD_TYPE := OFFICIAL
 # Bootlogo sector
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_SCREEN_HEIGHT := 2246
@@ -17,12 +18,8 @@ TARGET_SCREEN_WIDTH := 1080
 # FaceUnlock Sector
 TARGET_FACE_UNLOCK_SUPPORTED := true
 
-# Maintainer Sector
-REVENGEOS_MAINTAINER := ThunderkeX
-REVENGEOS_BUILDTYPE := OFFICIAL
-
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := revengeos_beryllium
+PRODUCT_NAME := nad_beryllium
 PRODUCT_DEVICE := beryllium
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := POCO F1
