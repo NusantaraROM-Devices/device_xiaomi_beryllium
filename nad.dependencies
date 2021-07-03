@@ -7,14 +7,20 @@
   },
   {
     "remote": "github",
-    "repository": "ThunderkeX/proprietary_vendor_xiaomi",
+    "repository": "https://github.com/ThunderkeX/vendor_xiaomi_beryllium",
     "target_path": "vendor/xiaomi",
-    "branch": "11.0-beryllium"
+    "branch": "r11"
   },
   {
     "remote": "github",
     "repository": "GZR-Kernels/Optimus_Drunk_Beryllium",
     "target_path": "kernel/xiaomi/sdm845",
     "branch": "11.0"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "lineage-18.1"
   }
 ]
