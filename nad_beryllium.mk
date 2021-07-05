@@ -9,6 +9,7 @@ $(call inherit-product, device/xiaomi/beryllium/device.mk)
 # Inherit some common nusantara stuff.
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 
+NAD_BUILD_TYPE := OFFICIAL
 # Bootlogo sector
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_SCREEN_HEIGHT := 2246
