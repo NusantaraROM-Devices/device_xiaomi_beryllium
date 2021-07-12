@@ -6,9 +6,9 @@
   },
   {
     "remote": "github",
-    "repository":  "ThunderkeX/vendor_xiaomi_beryllium",
+    "repository":  "crdroidandroid/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch": "r11"
+    "branch": "11.0-beryllium"
   },
   {
     "remote": "github",
