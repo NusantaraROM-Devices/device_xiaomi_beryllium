@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "NusantaraROM-devices/device_xiaomi_sdm845-common",
+    "target_path": "device/xiaomi/sdm845-common",
+    "branch": "10"
+  },
+  {
+    "remote": "github",
+    "repository": "PainKiller3/vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "ten"
+  },
+  {
+    "remote": "github",
+    "repository": "https://github.com/PainKiller3/kernel_xiaomi_sdm845",
+    "target_path": "kernel/xiaomi/sdm845",
+    "branch": "ten"
+  }
+]
