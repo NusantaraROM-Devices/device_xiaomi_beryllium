@@ -13,7 +13,7 @@
   },
   {
     "remote": "github",
-    "repository": "https://github.com/PainKiller3/kernel_xiaomi_sdm845",
+    "repository": "PainKiller3/kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
     "branch": "ten"
   }
