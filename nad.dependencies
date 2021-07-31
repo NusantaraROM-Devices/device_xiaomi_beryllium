@@ -15,6 +15,6 @@
     "remote": "github",
     "repository": "PainKiller3/kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
-    "branch": "ten"
+    "branch": "eleven"
   }
 ]
