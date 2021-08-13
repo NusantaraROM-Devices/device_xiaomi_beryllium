@@ -53,7 +53,8 @@ PRODUCT_PACKAGES += \
 
 # Device init scripts
 PRODUCT_PACKAGES += \
-    init.target.rc
+    init.target.rc \
+    init.performance_level.rc
 
 # Display
 PRODUCT_COPY_FILES += \
