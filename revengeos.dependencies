@@ -12,9 +12,9 @@
   },
   {
     "remote": "github",
-    "repository": "GZR-Kernels/Optimus_Drunk_Beryllium",
-    "target_path": "kernel/xiaomi/sdm845",
-    "branch": "11.0"
+    "repository": "PainKiller3/device_xiaomi_sdm845-common",
+    "target_path": "device/xiaomi/sdm845-common",
+    "branch": "eleven"
   },
   {
     "remote": "github",
