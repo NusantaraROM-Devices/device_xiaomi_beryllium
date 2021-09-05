@@ -8,6 +8,7 @@ $(call inherit-product, device/xiaomi/beryllium/device.mk)
 
 # Inherit some common nusantara stuff.
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
+$(call inherit-product, device/xiaomi/beryllium/device-hidl.mk)
 
 NAD_BUILD_TYPE := OFFICIAL
 # Bootlogo sector
