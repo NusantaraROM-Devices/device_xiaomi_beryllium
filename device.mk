@@ -4,14 +4,15 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-$(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o_mr1.mk)
-
 # Get non-open-source specific aspects
 $(call inherit-product-if-exists, vendor/xiaomi/beryllium/beryllium-vendor.mk)
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 2246
 TARGET_SCREEN_WIDTH := 1080
+
+# PRODUCT_SHIPPING_API_LEVEL indicates the first api level, device has been commercially launched on.
+PRODUCT_SHIPPING_API_LEVEL := 27
 
 # FM
 PRODUCT_PACKAGES += \
