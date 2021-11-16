@@ -13,6 +13,6 @@
     "remote": "github",
     "repository": "Painkiller3/kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
-    "branch": "eleven"
+    "branch": "twelve"
   }
 ]
