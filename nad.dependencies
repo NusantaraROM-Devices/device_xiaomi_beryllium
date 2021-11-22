@@ -1,18 +1,18 @@
 [
   {
-    "repository": "device_xiaomi_sdm845-common",
+    "repository": "thunderkex/device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common",
-    "branch": "11"
+    "branch": "12"
   },
   {
-    "repository":  "vendor_xiaomi_beryllium",
+    "repository":  "thunderkex/vendor_xiaomi_beryllium",
     "target_path": "vendor/xiaomi",
-    "branch": "11"
+    "branch": "12"
   },
   {
     "remote": "github",
     "repository": "Painkiller3/kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
-    "branch": "eleven"
+    "branch": "twelve"
   }
 ]
