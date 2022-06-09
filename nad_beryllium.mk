@@ -6,22 +6,15 @@
 
 $(call inherit-product, device/xiaomi/beryllium/device.mk)
 
-# Inherit some common VoidUI stuff.
-$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
-
-IS_PHONE := true
-
-# VoidUI Maintainer Flags
-VOID_MAINTAINER := A. Dzaky
-
-# Bootanimation
+# Inherit some common Nusantara stuff.
+$(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 
-# FaceUnlock
-TARGET_FACE_UNLOCK_SUPPORTED := true
+NAD_BUILD_TYPE := OFFICIAL
+#USE_GAPPS := true
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := aosp_beryllium
+PRODUCT_NAME := nad_beryllium
 PRODUCT_DEVICE := beryllium
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := POCO F1
