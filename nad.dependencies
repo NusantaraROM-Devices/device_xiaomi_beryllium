@@ -19,8 +19,8 @@
   },
   {
     "remote": "github",
-    "repository": "PainKiller3/kernel_xiaomi_sdm845",
+    "repository": "crdroidandroid/android_kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
-    "branch": "eleven"
+    "branch": "12.1-silver"
   }
 ]
